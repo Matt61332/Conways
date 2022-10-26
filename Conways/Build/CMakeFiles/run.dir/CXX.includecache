@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/cell.h
+
+/Users/matthew/c++ projects/Conways/src/main.cpp
+iostream
+-
+time.h
+-
+stdlib.h
+-
+ctime
+-
+thread
+-
+chrono
+-
+cell.h
+/Users/matthew/c++ projects/Conways/src/cell.h
+

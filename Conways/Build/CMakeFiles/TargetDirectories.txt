@@ -1,0 +1,3 @@
+/Users/matthew/c++ projects/Conways/Build/CMakeFiles/rebuild_cache.dir
+/Users/matthew/c++ projects/Conways/Build/CMakeFiles/edit_cache.dir
+/Users/matthew/c++ projects/Conways/Build/CMakeFiles/run.dir
